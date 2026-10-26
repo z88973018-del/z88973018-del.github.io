@@ -1,0 +1,7 @@
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://z88973018-del.github.io/sitemap.xml
